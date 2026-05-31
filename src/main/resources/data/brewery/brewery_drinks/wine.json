@@ -30,9 +30,9 @@
   "ingredients": [
     {
       "items": [
-        "minecraft:sweet_berries"
+        "minecraft:redstone"
       ],
-      "count": 5
+      "count": 3
     }
   ],
   "book_information": {
